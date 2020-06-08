@@ -8,7 +8,8 @@
             "appID":"S6L44PEF74.com.vanlanschot.evi.mobiel",
             "paths":[
                "*",
-               "/status/*"
+               "/status/*",
+               "/"
             ]
          },
          {
@@ -23,14 +24,16 @@
             "appID":"49934BYA74.com.mobgen.vanlanschot.evi2",
             "paths":[
                "*",
-               "/status/*"
+               "/status/*",
+               "/"
             ]
          },
          {
             "appID":"7NTUFY4PX3.com.vanlanschot.enterprise.compliant",
             "paths":[
                "*",
-               "/status/*"
+               "/status/*",
+               "/"
             ]
          }
       ]
