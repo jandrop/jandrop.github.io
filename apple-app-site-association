@@ -15,7 +15,8 @@
             "appID":"S6L44PEF74.com.vanlanschot.compliant.mobiel",
             "paths":[
                "*",
-               "/status/*"
+               "/status/*",
+               "/"
             ]
          },
          {
