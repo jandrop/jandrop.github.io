@@ -1,15 +1,23 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "49934BYA74.com.mobgen.vanlanschot.evi2",
-                "paths": ["*", "/status/*"],
-            },
-            {
-                "appID": "7NTUFY4PX3.com.vanlanschot.enterprise.compliant",
-                "paths": ["*", "/status/*"],
-            }
-        ]
-    }
+   "applinks":{
+      "apps":[
+
+      ],
+      "details":[
+         {
+            "appID":"49934BYA74.com.mobgen.vanlanschot.evi2",
+            "paths":[
+               "*",
+               "/status/*"
+            ]
+         },
+         {
+            "appID":"7NTUFY4PX3.com.vanlanschot.enterprise.compliant",
+            "paths":[
+               "*",
+               "/status/*"
+            ]
+         }
+      ]
+   }
 }
