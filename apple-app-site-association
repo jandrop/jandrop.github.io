@@ -5,6 +5,20 @@
       ],
       "details":[
          {
+            "appID":"S6L44PEF74.com.vanlanschot.evi.mobiel",
+            "paths":[
+               "*",
+               "/status/*"
+            ]
+         },
+         {
+            "appID":"S6L44PEF74.com.vanlanschot.compliant.mobiel",
+            "paths":[
+               "*",
+               "/status/*"
+            ]
+         },
+         {
             "appID":"49934BYA74.com.mobgen.vanlanschot.evi2",
             "paths":[
                "*",
